@@ -1,0 +1,31 @@
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojResolveAssemblyReference.cache
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojResolveAssemblyReference.cache
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\bin\Debug\DataAccess.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojResolveAssemblyReference.cache
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\3. Data Access Layer\obj\Debug\DataAccess.pdb
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.dll
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.pdb
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojAssemblyReference.cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\3. Data Access Layer.csproj.CoreCompileInputs.cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.dll
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.dll
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojResolveAssemblyReference.cache
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.dll
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.dll
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\bin\Debug\DataAccess.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\3. Data Access Layer.csprojResolveAssemblyReference.cache
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.dll
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\3. Data Access Layer\obj\Debug\DataAccess.pdb

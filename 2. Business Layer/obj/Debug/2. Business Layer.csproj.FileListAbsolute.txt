@@ -1,0 +1,21 @@
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\2. Business Layer.csprojResolveAssemblyReference.cache
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\2. Business Layer.csprojResolveAssemblyReference.cache
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\Business.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\bin\Debug\DataAccess.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\2. Business Layer.csprojResolveAssemblyReference.cache
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\2. Business Layer\obj\Debug\Business.pdb

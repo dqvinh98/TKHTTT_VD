@@ -1,0 +1,80 @@
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojResolveAssemblyReference.cache
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.Cache
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.dll
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.pdb
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+D:\BaiTap (192.168.0.2)\C#\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.dll
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.pdb
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojResolveAssemblyReference.cache
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+D:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.Cache
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.dll
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\Business.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\bin\Debug\DataAccess.pdb
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojResolveAssemblyReference.cache
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+F:\Giao trinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.Cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.dll
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.dll
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.pdb
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.pdb
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojAssemblyReference.cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.CoreCompileInputs.cache
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.CopyComplete
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+D:\GiaoTrinh\BaigiangPTTKHTTT_Khoa\Baitap\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.dll
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.dll
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.pdb
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojResolveAssemblyReference.cache
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+D:\do\TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.Cache
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe.config
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.exe
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.exe
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\_1.Presentation_Layer.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.dll
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.dll
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\Business.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\bin\Debug\DataAccess.pdb
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csprojResolveAssemblyReference.cache
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\Presentation.Form1.resources
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\_1.Presentation_Layer.Properties.Resources.resources
+E:\b1606860\TKHTTT\TN204-TKHTTT\Vidu-Mau-3Layers-Bookstore\1. Presentation Layer\obj\Debug\1. Presentation Layer.csproj.GenerateResource.Cache
